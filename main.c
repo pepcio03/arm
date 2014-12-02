@@ -24,7 +24,7 @@
 
 //*****************************************************************************
 //
-// ObslugaIO.c - Program prezentujacy obsluge klawiszy i diod LED.
+// main.c - Program prezentujacy obsluge UARTa
 //
 //*****************************************************************************
 
